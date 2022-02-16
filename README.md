@@ -1,9 +1,39 @@
-# SmartBrain - v1
-Final project for ZTM course
+<h1 align="center">Welcome to Face-Recognition-App 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
+> This is the frontend of the Face Recognition API Project
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+### ✨ [Demo](https://face-recognitionv2.herokuapp.com/)
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Patrick Reitbauer**
+
+* Github: [@Whitekashin](https://github.com/Whitekashin)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
