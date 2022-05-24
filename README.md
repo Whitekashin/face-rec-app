@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> This is the frontend of the Face Recognition API Project
+> This is the frontend of the Face Recognition API Project. In order to use the DEMO you need to copy and paste the URL to an image containing a recognizable face.
 
 ### ✨ [Demo](https://face-recognitionv2.herokuapp.com/)
 
